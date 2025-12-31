@@ -1,0 +1,8 @@
+# Eclipse IDE files
+.settings/
+bin/
+.classpath
+.project
+
+# Runtime / generated data
+events.txt
